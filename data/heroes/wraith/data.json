@@ -1,0 +1,28 @@
+{
+    "name": "Wraith",
+    "short_description": "Melts isolated targets",
+    "description": "Excelling at one-on-one combat, Wraith isolates targets, eliminating them with ruthless efficiency. then teleporting away before anyone can retaliate.",
+    "dps": 61,
+    "bullet_damage": 5.5,
+    "ammo": 52,
+    "bullets_per_second": 11.1,
+    "light_mellee_damage": 63,
+    "heavy_mellee_damage": 116,
+    "max_health": 550,
+    "health_regen": 2,
+    "bullet_resistance_pct": 0,
+    "spirit_resistance_pct": 0,
+    "movement_speed_mps": 7,
+    "sprint_speed_mps": 0,
+    "stamina": 3,
+    "pi_bullet_damage": 0.48,
+    "pi_melee_damage": 3.4,
+    "pi_health_abs": 31,
+    "pi_bullet_resistance_pct": 0.01,
+    "multipliers": {
+        "sprint_speed_mps": [
+            "spirit power",
+            0.06
+        ]
+    }
+}

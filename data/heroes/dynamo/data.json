@@ -1,0 +1,21 @@
+{
+    "name": "Dynamo",
+    "short_description": "Locks down the enemy team",
+    "description": "Dynamo keeps himself and his allies healthy while waiting for his moment. Few things can warp a team fight more than a well-coordinated use of Singularity.",
+    "dps": 60,
+    "bullet_damage": 15,
+    "ammo": 18,
+    "bullets_per_second": 4,
+    "light_mellee_damage": 63,
+    "heavy_mellee_damage": 116,
+    "max_health": 650,
+    "health_regen": 2,
+    "bullet_resistance_pct": 0,
+    "spirit_resistance_pct": 0,
+    "movement_speed_mps": 6.5,
+    "sprint_speed_mps": 0,
+    "stamina": 3,
+    "pi_bullet_damage": 0.9,
+    "pi_melee_damage": 3.4,
+    "pi_health_abs": 44
+}

@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Sleep Dagger",
+        "description": "Throw a dagger that damages and sleeps the target. Sleeping targets wake up shortly after being damaged. Throwing a dagger does not break your invisibility. It does not interrupt enemies' channeling abilities.",
+        "type": "ACTIVE",
+        "iconUrl": "",
+        "videoUrl": ""
+    },
+    {
+        "name": "Smoke Bomb",
+        "description": "Fade out of sight, becoming invisible and gaining spirit speed. Attacking removes invisibility. Close enemies can see through your invisibility.",
+        "type": "ACTIVE",
+        "iconUrl": "",
+        "videoUrl": ""
+    },
+    {
+        "name": "Fixation",
+        "description": "Shooting a target increases your bullet damage on that target. Gain one stack per bullet hit, two if the hit is a headhshot.",
+        "type": "PASSIVE",
+        "sub_type": "STACK_BUFF",
+        "iconUrl": "",
+        "videoUrl": "",
+        "max_stacks": 30,
+        "stack_per_bullet_hit": 1,
+        "stack_per_headshot": 2,
+        "weapon_damage_per_stack": 0.5
+    },
+    {
+        "name": "Bullet Dance",
+        "description": "Enter a flurry, firing your weapon at nearby enemies with perfect accuracy. During the flurry, Haze gains a fire rate bonus and will evade some of the bullets shot at her.",
+        "type": "ULTIMATE",
+        "iconUrl": "",
+        "videoUrl": ""
+    }
+]

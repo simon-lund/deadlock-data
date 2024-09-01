@@ -1,0 +1,21 @@
+{
+    "name": "Infernus",
+    "short_description": "Lights up enemies and watches them burn",
+    "description": "Infernus has many ways to deal damage over time, burning foes before swooping in for the kill. Due to Infernus\u2019s blazing speed, his enemies won\u2019t be able to escape the flames",
+    "dps": 66,
+    "bullet_damage": 6.6,
+    "ammo": 27,
+    "bullets_per_second": 10,
+    "light_mellee_damage": 63,
+    "heavy_mellee_damage": 116,
+    "max_health": 625,
+    "health_regen": 2,
+    "bullet_resistance_pct": 0,
+    "spirit_resistance_pct": 0,
+    "movement_speed_mps": 6.5,
+    "sprint_speed_mps": 0,
+    "stamina": 3,
+    "pi_bullet_damage": 0.36,
+    "pi_melee_damage": 3.4,
+    "pi_health_abs": 33
+}

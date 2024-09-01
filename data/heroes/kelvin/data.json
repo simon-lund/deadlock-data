@@ -1,0 +1,21 @@
+{
+    "name": "Kelvin",
+    "short_description": "Freezes enemies in their tracks",
+    "description": "Timely heals and splitting a teamfight properly is the difference between an easy victory or a ruinous defeat. Gliding around slowing enemies gives Kelvin\u2019s team the maneuvering advantage to make this happen.",
+    "dps": 83,
+    "bullet_damage": 21,
+    "ammo": 15,
+    "bullets_per_second": 4,
+    "light_mellee_damage": 63,
+    "heavy_mellee_damage": 116,
+    "max_health": 600,
+    "health_regen": 2,
+    "bullet_resistance_pct": 0,
+    "spirit_resistance_pct": 0.1,
+    "movement_speed_mps": 6.5,
+    "sprint_speed_mps": 0,
+    "stamina": 3,
+    "pi_bullet_damage": 1.2,
+    "pi_melee_damage": 3.4,
+    "pi_health_abs": 45
+}

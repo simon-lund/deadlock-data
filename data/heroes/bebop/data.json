@@ -1,0 +1,21 @@
+{
+    "name": "Bebop",
+    "short_description": "Hooks an enemy for a knockout combo",
+    "description": "Bebop can string together his abilities in many different ways. Disrupting enemy positions, saving an ally or dealing bursts of damage. When the situation doesn't require subtlety his giant laser still solves problems.",
+    "dps": 66,
+    "bullet_damage": 5.3,
+    "ammo": 66,
+    "bullets_per_second": 12.5,
+    "light_mellee_damage": 63,
+    "heavy_mellee_damage": 116,
+    "max_health": 650,
+    "health_regen": 3,
+    "bullet_resistance_pct": 0.1,
+    "spirit_resistance_pct": 0,
+    "movement_speed_mps": 6.2,
+    "sprint_speed_mps": 3,
+    "stamina": 3,
+    "pi_bullet_damage": 0.37,
+    "pi_melee_damage": 3.4,
+    "pi_health_abs": 41
+}

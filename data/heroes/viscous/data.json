@@ -1,0 +1,21 @@
+{
+    "name": "Viscous",
+    "short_description": "Rolls around deflecting bullets",
+    "description": "Viscous vexes his opponents through clever evasion and strategic uses of healing, enabling him to withstand the most brutal of enemy attacks.",
+    "dps": 75,
+    "bullet_damage": 15,
+    "ammo": 21,
+    "bullets_per_second": 5,
+    "light_mellee_damage": 63,
+    "heavy_mellee_damage": 116,
+    "max_health": 550,
+    "health_regen": 2,
+    "bullet_resistance_pct": 0,
+    "spirit_resistance_pct": 0,
+    "movement_speed_mps": 5,
+    "sprint_speed_mps": 0,
+    "stamina": 3,
+    "pi_bullet_damage": 0.9,
+    "pi_melee_damage": 3.4,
+    "pi_health_abs": 38
+}

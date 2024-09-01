@@ -1,0 +1,27 @@
+{
+    "name": "Grey Talon",
+    "short_description": "Delivers long range skill-shots",
+    "description": "A cunning predator, Grey Talon uses a combination of deadly accuracy, traps, and clever positioning to bring down the toughest of opponents.",
+    "dps": 55,
+    "bullet_damage": 22,
+    "ammo": 17,
+    "bullets_per_second": 2.5,
+    "light_mellee_damage": 63,
+    "heavy_mellee_damage": 116,
+    "max_health": 550,
+    "health_regen": 2,
+    "bullet_resistance_pct": 0,
+    "spirit_resistance_pct": 0,
+    "movement_speed_mps": 6,
+    "sprint_speed_mps": 0,
+    "stamina": 3,
+    "pi_bullet_damage": 0.9,
+    "pi_melee_damage": 1.46,
+    "pi_health_abs": 3.4,
+    "multipliers": {
+        "movement_speed_mps": [
+            "spirit power",
+            0.04
+        ]
+    }
+}

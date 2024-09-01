@@ -1,0 +1,21 @@
+{
+    "name": "McGinnis",
+    "short_description": "Controls the battle with combat turrets",
+    "description": "Precise placement is everything for McGinnis, whether she's creating a killzone or splitting the enemy team. She can help keep her team running making them hard to dislodge when entrenched.",
+    "dps": 61,
+    "bullet_damage": 10,
+    "ammo": 29,
+    "bullets_per_second": 6.12,
+    "light_mellee_damage": 63,
+    "heavy_mellee_damage": 116,
+    "max_health": 550,
+    "health_regen": 2,
+    "bullet_resistance_pct": 0,
+    "spirit_resistance_pct": 0.15,
+    "movement_speed_mps": 7,
+    "sprint_speed_mps": 1,
+    "stamina": 3,
+    "pi_bullet_damage": 0.44,
+    "pi_melee_damage": 3.4,
+    "pi_health_abs": 41
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Yamato",
+    "short_description": "Delivers charged attacks with finesse",
+    "description": "Yamato uses precise strikes to decimate her rivals. However, such damaging attacks often will leave her exposed, so she needs to make every shot count.",
+    "dps": 70,
+    "bullet_damage": 5.65,
+    "ammo": 12,
+    "bullets_per_second": 2.5,
+    "light_mellee_damage": 69,
+    "heavy_mellee_damage": 128,
+    "max_health": 500,
+    "health_regen": 2,
+    "bullet_resistance_pct": 0,
+    "spirit_resistance_pct": 0,
+    "movement_speed_mps": 8,
+    "sprint_speed_mps": 0,
+    "stamina": 3,
+    "pi_bullet_damage": 0.5,
+    "pi_melee_damage": 3.4,
+    "pi_health_pct": 0.01
+}

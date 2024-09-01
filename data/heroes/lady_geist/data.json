@@ -1,0 +1,21 @@
+{
+    "name": "Lady Geist",
+    "short_description": "Sacrifices health then drains it back",
+    "description": "Expending health to achieve devastating effects is the source of Lady Geist\u2019s power. When running low, she can drain the life out of her rivals.",
+    "dps": 55,
+    "bullet_damage": 25,
+    "ammo": 13,
+    "bullets_per_second": 2.22,
+    "light_mellee_damage": 63,
+    "heavy_mellee_damage": 116,
+    "max_health": 650,
+    "health_regen": 1,
+    "bullet_resistance_pct": 0,
+    "spirit_resistance_pct": 0,
+    "movement_speed_mps": 6,
+    "sprint_speed_mps": 1,
+    "stamina": 3,
+    "pi_bullet_damage": 2.1,
+    "pi_melee_damage": 3.4,
+    "pi_health_abs": 41
+}

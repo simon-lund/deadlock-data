@@ -1,0 +1,21 @@
+{
+    "name": "Mo & Krill",
+    "short_description": "Burrows underneath his enemies",
+    "description": "By burrowing through the ground, Mo and Krill can get the drop on almost anyone; and once they get in close the results can be devastating.",
+    "dps": 76,
+    "bullet_damage": 3.6,
+    "ammo": 20,
+    "bullets_per_second": 5.56,
+    "light_mellee_damage": 63,
+    "heavy_mellee_damage": 116,
+    "max_health": 700,
+    "health_regen": 3,
+    "bullet_resistance_pct": 0,
+    "spirit_resistance_pct": 0,
+    "movement_speed_mps": 7.8,
+    "sprint_speed_mps": 0,
+    "stamina": 3,
+    "pi_bullet_damage": 0.25,
+    "pi_melee_damage": 3.4,
+    "pi_health_abs": 44
+}
