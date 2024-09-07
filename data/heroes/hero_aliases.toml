@@ -44,7 +44,7 @@ aliases = ["forge"]
 
 [[heroes]]
 name = "mo and krill"
-aliases = ["krill"]
+aliases = ["mo & krill", "krill"]
 
 [[heroes]]
 name = "paradox"
