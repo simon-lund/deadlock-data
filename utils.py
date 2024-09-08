@@ -14,7 +14,7 @@ def get_hero_dir(hero_name: str) -> Path:
         names = list(map(str.lower, names))
 
         if hero_name.lower() in names:
-            return HEROES_DIR / hero['dir']
+            return HEROES_DIR / hero['id']
 
     raise KeyError(f"Hero {hero_name} not found.")
 

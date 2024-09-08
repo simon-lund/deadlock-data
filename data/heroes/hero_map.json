@@ -1,6 +1,6 @@
 [
   {
-    "dir": "abrams",
+    "id": "abrams",
     "name": "Abrams",
     "old_names": [
       "Atlas",
@@ -8,17 +8,17 @@
     ]
   },
   {
-    "dir": "bebop",
+    "id": "bebop",
     "name": "Bebop",
     "old_names": []
   },
   {
-    "dir": "dynamo",
+    "id": "dynamo",
     "name": "Dynamo",
     "old_names": []
   },
   {
-    "dir": "grey_talon",
+    "id": "grey_talon",
     "name": "Grey Talon",
     "old_names": [
       "Orion",
@@ -26,105 +26,105 @@
     ]
   },
   {
-    "dir": "haze",
+    "id": "haze",
     "name": "Haze",
     "old_names": []
   },
   {
-    "dir": "infernus",
+    "id": "infernus",
     "name": "Infernus",
     "old_names": [
       "Inferno"
     ]
   },
   {
-    "dir": "ivy",
+    "id": "ivy",
     "name": "Ivy",
     "old_names": [
       "Tengu"
     ]
   },
   {
-    "dir": "kelvin",
+    "id": "kelvin",
     "name": "Kelvin",
     "old_names": []
   },
   {
-    "dir": "lady_geist",
+    "id": "lady_geist",
     "name": "Lady Geist",
     "old_names": [
       "Ghost"
     ]
   },
   {
-    "dir": "lash",
+    "id": "lash",
     "name": "Lash",
     "old_names": []
   },
   {
-    "dir": "mcginnis",
+    "id": "mcginnis",
     "name": "McGinnis",
     "old_names": [
       "Forge"
     ]
   },
   {
-    "dir": "mo_and_krill",
+    "id": "mo_and_krill",
     "name": "Mo & Krill",
     "old_names": [
       "Krill"
     ]
   },
   {
-    "dir": "paradox",
+    "id": "paradox",
     "name": "Paradox",
     "old_names": [
       "Chrono"
     ]
   },
   {
-    "dir": "pocket",
+    "id": "pocket",
     "name": "Pocket",
     "old_names": [
       "Synth"
     ]
   },
   {
-    "dir": "seven",
+    "id": "seven",
     "name": "Seven",
     "old_names": [
       "Gigawatt"
     ]
   },
   {
-    "dir": "shiv",
+    "id": "shiv",
     "name": "Shiv",
     "old_names": []
   },
   {
-    "dir": "vindicta",
+    "id": "vindicta",
     "name": "Vindicta",
     "old_names": [
       "Hornet"
     ]
   },
   {
-    "dir": "viscous",
+    "id": "viscous",
     "name": "Viscous",
     "old_names": []
   },
   {
-    "dir": "warden",
+    "id": "warden",
     "name": "Warden",
     "old_names": []
   },
   {
-    "dir": "wraith",
+    "id": "wraith",
     "name": "Wraith",
     "old_names": []
   },
   {
-    "dir": "yamato",
+    "id": "yamato",
     "name": "Yamato",
     "old_names": []
   }
