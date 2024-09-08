@@ -1,0 +1,129 @@
+[
+  {
+    "dir": "abrams",
+    "name": "Abrams",
+    "old_names": [
+      "Atlas",
+      "Bull"
+    ]
+  },
+  {
+    "dir": "bebop",
+    "name": "Bebop",
+    "old_names": []
+  },
+  {
+    "dir": "dynamo",
+    "name": "Dynamo",
+    "old_names": []
+  },
+  {
+    "dir": "grey_talon",
+    "name": "Grey Talon",
+    "old_names": [
+      "Orion",
+      "Archer"
+    ]
+  },
+  {
+    "dir": "haze",
+    "name": "haze",
+    "old_names": []
+  },
+  {
+    "dir": "infernus",
+    "name": "Infernus",
+    "old_names": [
+      "Inferno"
+    ]
+  },
+  {
+    "dir": "ivy",
+    "name": "Ivy",
+    "old_names": [
+      "Tengu"
+    ]
+  },
+  {
+    "dir": "kelvin",
+    "name": "Kelvin",
+    "old_names": []
+  },
+  {
+    "dir": "lady_geist",
+    "name": "Lady Geist",
+    "old_names": [
+      "Ghost"
+    ]
+  },
+  {
+    "dir": "lash",
+    "name": "Lash",
+    "old_names": []
+  },
+  {
+    "dir": "mcginnis",
+    "name": "McGinnis",
+    "old_names": [
+      "Forge"
+    ]
+  },
+  {
+    "dir": "mo_and_krill",
+    "name": "Mo & Krill",
+    "old_names": [
+      "Krill"
+    ]
+  },
+  {
+    "dir": "paradox",
+    "name": "Paradox",
+    "old_names": [
+      "Chrono"
+    ]
+  },
+  {
+    "dir": "pocket",
+    "name": "Pocket",
+    "old_names": [
+      "Synth"
+    ]
+  },
+  {
+    "dir": "seven",
+    "name": "Seven",
+    "old_names": []
+  },
+  {
+    "dir": "shiv",
+    "name": "Shiv",
+    "old_names": []
+  },
+  {
+    "dir": "vindicta",
+    "name": "Vindicta",
+    "old_names": [
+      "hornet"
+    ]
+  },
+  {
+    "dir": "viscous",
+    "name": "viscous",
+    "old_names": []
+  },
+  {
+    "dir": "warden",
+    "name": "warden",
+    "old_names": []
+  },
+  {
+    "dir": "wraith",
+    "name": "wraith",
+    "old_names": []
+  },
+  {
+    "dir": "yamato",
+    "name": "yamato",
+    "old_names": []
+  }
+]
