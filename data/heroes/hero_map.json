@@ -27,7 +27,7 @@
   },
   {
     "dir": "haze",
-    "name": "haze",
+    "name": "Haze",
     "old_names": []
   },
   {
@@ -92,7 +92,9 @@
   {
     "dir": "seven",
     "name": "Seven",
-    "old_names": []
+    "old_names": [
+      "Gigawatt"
+    ]
   },
   {
     "dir": "shiv",
@@ -103,27 +105,27 @@
     "dir": "vindicta",
     "name": "Vindicta",
     "old_names": [
-      "hornet"
+      "Hornet"
     ]
   },
   {
     "dir": "viscous",
-    "name": "viscous",
+    "name": "Viscous",
     "old_names": []
   },
   {
     "dir": "warden",
-    "name": "warden",
+    "name": "Warden",
     "old_names": []
   },
   {
     "dir": "wraith",
-    "name": "wraith",
+    "name": "Wraith",
     "old_names": []
   },
   {
     "dir": "yamato",
-    "name": "yamato",
+    "name": "Yamato",
     "old_names": []
   }
 ]
