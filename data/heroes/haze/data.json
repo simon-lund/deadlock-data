@@ -23,5 +23,36 @@
             "spirit power",
             0.04
         ]
+    },
+    "id": 13,
+    "new_player_friendly": false,
+    "starting_stats": {
+        "max_move_speed": 8.0,
+        "sprint_speed": 0,
+        "crouch_speed": 4.75,
+        "move_acceleration": 4,
+        "light_melee_damage": 63,
+        "heavy_melee_damage": 116,
+        "max_health": 500.0,
+        "weapon_power": 0,
+        "reload_speed": 1,
+        "weapon_power_scale": 1,
+        "stamina": 3,
+        "base_health_regen": 2.0,
+        "stamina_regen_per_second": 0.2
+    },
+    "abilities": [
+        "ability_sleep_dagger",
+        "ability_smoke_bomb",
+        "ability_stacking_damage",
+        "ability_bullet_flurry"
+    ],
+    "level_upgrades": {
+        "modifier_value_base_melee_damage_from_level": 3.4,
+        "modifier_value_tech_damage_percent": 0.0,
+        "modifier_value_base_bullet_damage_from_level": 0.285,
+        "modifier_value_base_health_from_level": 27.0,
+        "modifier_value_bonus_attack_range": null,
+        "modifier_value_bullet_armor_damage_resist": 0.0
     }
 }
