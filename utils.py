@@ -15,8 +15,8 @@ def get_hero_dir(hero_name: str) -> Path:
 
         if hero_name.lower() in names:
             return HEROES_DIR / hero['dir']
-    else:
-        raise ValueError(f"Hero {hero_name} not found in HERO_MAP")
+
+    raise KeyError(f"Hero {hero_name} not found.")
 
 
 def highres_url(srcset: str) -> str:
