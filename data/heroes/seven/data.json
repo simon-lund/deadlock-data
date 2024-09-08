@@ -1,0 +1,27 @@
+{
+    "name": "Seven",
+    "short_description": "Electrocutes crowds of enemies",
+    "description": "Seven thrives in a skirmish waiting for the time to strike. Then he rolls into the fight like a storm and batters his enemies with a cascade of lightning.",
+    "dps": 70,
+    "bullet_damage": 11.5,
+    "ammo": 29,
+    "bullets_per_second": 6.12,
+    "light_mellee_damage": 63,
+    "heavy_mellee_damage": 116,
+    "max_health": 550,
+    "health_regen": 1.5,
+    "bullet_resistance_pct": 0.08,
+    "spirit_resistance_pct": 0,
+    "movement_speed_mps": 7,
+    "sprint_speed_mps": 0,
+    "stamina": 3,
+    "pi_bullet_damage": 0.76,
+    "pi_melee_damage": 3.4,
+    "pi_health_abs": 31,
+    "multipliers": {
+        "movement_speed_mps": [
+            "spirit power",
+            0.028
+        ]
+    }
+}
