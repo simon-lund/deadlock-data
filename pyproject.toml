@@ -1,2 +1,7 @@
 [project]
 name = "deadlock-data"
+dynamic = ["dependencies", "readme"]
+
+[tool.setuptools.dynamic]
+dependencies = {file = "requirements.txt"}
+readme = {file = "README.md"}
