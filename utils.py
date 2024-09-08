@@ -13,7 +13,7 @@ def get_hero_dir(hero_name: str) -> Path:
         names = [hero['name'], *hero['old_names']]
         names = list(map(str.lower, names))
 
-        if hero_name in names:
+        if hero_name.lower() in names:
             return HEROES_DIR / hero['dir']
     else:
         raise ValueError(f"Hero {hero_name} not found in HERO_MAP")
